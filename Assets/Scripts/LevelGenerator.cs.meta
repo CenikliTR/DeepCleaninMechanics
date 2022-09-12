@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: ed5b181cdc9c659478e720a5ab069ecd
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - cheeseLong: {fileID: 548196290062075023, guid: e6e2bfebb633b834fadcf1b70bc76027, type: 3}
+  - cheeseSphere: {fileID: 324868657470866289, guid: bf517ac0e119a1c4991977c5f60262f0, type: 3}
+  - spamLine: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
